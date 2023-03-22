@@ -1,0 +1,46 @@
+.container{
+    
+    text-align: center;
+    justify-content: center;
+    border: solid 2px black;
+    width: 850px;
+    margin-top: 20px;
+    border-radius: 2%;
+    background-color: darkgrey;
+}
+
+
+
+#button {
+    background-color: rgb(206, 46, 18);
+    color: white;
+    width: 400px;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 200px;
+    margin-bottom: 20px;
+}
+
+.text {
+    text-align: center !important;
+    padding: 20px;
+}
+.mb-3 h5{
+    text-align: center;
+    padding: 20px;
+    color: red;
+    font-weight:bold;
+}
+
+.header h2{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    border-bottom: solid 2px green;
+}
+
+p{
+    font-size: large;
+    font-weight: 800;
+    border: solid 2px greenyellow;
+    
+}
